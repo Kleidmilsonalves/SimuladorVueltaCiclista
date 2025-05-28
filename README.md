@@ -1,4 +1,4 @@
-# Simulador de la Vuelta Ciclista
+# Simulador de Venda
 
 Este es mi primer proyecto empleando Programación Orientada a Objetos en Java.
 
